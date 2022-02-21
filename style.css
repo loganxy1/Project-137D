@@ -1,0 +1,41 @@
+.header{
+    letter-spacing: 2px;
+    margin-top: 0;
+    position: sticky;
+    color: white;
+}
+
+#heading{
+    margin-bottom: 50px;
+    background-color:dimgrey;
+}
+
+#text{
+    margin-bottom: 50px;
+    width: 25%;
+    font-family: "";
+}
+
+#start{
+    background-color: lime;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 8%;
+    font-family: none;
+    margin-bottom: 50px;
+}
+
+body{
+    position: center;
+    background-size: cover;
+    font-family: 'Shizuru', cursive;
+}
+
+#label{
+    margin-bottom: 30px;
+    color: white;
+}
+
+.subHeader{
+    color: white;
+}
